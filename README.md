@@ -32,3 +32,4 @@
 - if문 1 - if, else
 - if문 2 - else if
 - if문 3 - if문과 else if문
+- switch문
