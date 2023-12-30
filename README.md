@@ -44,3 +44,4 @@
 - while문 2
 - do-while문
 - break, continue
+- for문 1
